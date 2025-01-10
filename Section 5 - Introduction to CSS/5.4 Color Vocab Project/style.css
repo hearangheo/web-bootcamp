@@ -27,5 +27,5 @@
 /* Step 4: Use CSS (not HTML) to make all the images 200px height and 200px wide. */
 img {
     height: 200px;
-    width: 200px
+    width: 200px;
 }
